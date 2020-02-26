@@ -1,0 +1,7 @@
+{
+  "name": "Ant Design Colors",
+  "id": "813974657652774376",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
